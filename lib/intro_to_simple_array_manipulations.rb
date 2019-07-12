@@ -1,4 +1,4 @@
-def using_push(array) 
+def using_push(array, element) 
   array= colors_in_the_rainbow
   
   array.push(next_color)
