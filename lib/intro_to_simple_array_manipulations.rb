@@ -18,7 +18,7 @@ array.pop(2)
 end 
 
 def using_insert(array, element)
-puts array.insert(element)
+puts array.insert(4,element)
 end
 
 def using_shift(array)
