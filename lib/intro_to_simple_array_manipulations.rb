@@ -1,4 +1,4 @@
-def using_push(colors_in_the_rainbow, string) 
+def using_push(colors_in_the_rainbow, "violet") 
   array= colors_in_the_rainbow
   
   array.push(colors_in_the_rainbow, next_color)
