@@ -16,10 +16,7 @@ def pop_with_args(array)
   puts 
 array.pop(2)
 end 
-def pop_with_args(array)
-  puts 
-array.pop(2)
-end 
+
 def using_shift(array)
   puts 
 array.shift
@@ -29,11 +26,12 @@ def using_shift_with_args(array)
   puts 
 array.shift(1)
 end 
+
 def using_concat(array1, array2)
   puts 
 array1.concat(array2)
 end 
 def using_uniq(array)
   puts 
-  array.using_uniq
+  array.uniq
   end
