@@ -16,7 +16,10 @@ def pop_with_args(array)
   puts 
 array.pop(2)
 end 
-def 
+
+def using_insert(array, element)
+puts array.insert(element)
+end
 
 def using_shift(array)
   puts 
