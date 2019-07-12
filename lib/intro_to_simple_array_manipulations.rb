@@ -29,7 +29,7 @@ def using_shift_with_args(array)
   puts 
 array.shift(1)
 end 
-def using_shift_with_args(array)
+def using_concat(array1, array2)
   puts 
 array.shift(1)
 end 
