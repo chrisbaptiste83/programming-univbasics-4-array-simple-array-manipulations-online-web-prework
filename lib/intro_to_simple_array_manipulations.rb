@@ -20,3 +20,8 @@ def pop_with_args(array)
   puts 
 array.pop(2)
 end 
+def using_shift(array)
+  puts 
+array.shift
+end 
+
