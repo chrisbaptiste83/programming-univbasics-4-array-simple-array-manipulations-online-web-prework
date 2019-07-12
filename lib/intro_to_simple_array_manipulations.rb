@@ -35,4 +35,7 @@ def using_uniq(array)
   puts 
   array.uniq
   end
-  def 
+  def using_flatten(array)
+    puts
+    array.flatten
+  end
