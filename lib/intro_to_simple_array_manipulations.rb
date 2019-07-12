@@ -16,6 +16,7 @@ def pop_with_args(array)
   puts 
 array.pop(2)
 end 
+def 
 
 def using_shift(array)
   puts 
@@ -43,3 +44,5 @@ def using_uniq(array)
     puts
     array.delete(string)
   end
+  
+  
