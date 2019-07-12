@@ -35,3 +35,4 @@ def using_uniq(array)
   puts 
   array.uniq
   end
+  def 
